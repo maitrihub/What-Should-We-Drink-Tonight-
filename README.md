@@ -16,7 +16,8 @@ This Android app takes the hassle out of choosing your next drink. Let the app p
 
 ## Technologies Used
 
-- **Android**: The app is built using Android SDK with modern UI components like Jetpack Compose.
+- **Android**: The app is built using Android SDK with modern UI components
+
 - **RxJava**: Used for handling asynchronous network calls.
 - **Retrofit**: For making network requests to fetch random cocktail data.
 - **Moshi**: A JSON library used for data serialization.
